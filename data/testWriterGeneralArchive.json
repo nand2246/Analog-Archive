@@ -1,0 +1,42 @@
+{
+    "Film": [
+        {
+            "iso": 400,
+            "name": "test",
+            "expiry": {},
+            "type": "35mm",
+            "camera": {
+                "name": "Program Plus",
+                "film type": "35mm",
+                "manufacturer": "Pentax"
+            },
+            "brand": "Kodak Ultramax",
+            "develop date": {}
+        },
+        {
+            "iso": 600,
+            "name": "test2",
+            "expiry": {},
+            "type": "Instant Film",
+            "camera": {
+                "name": "Impulse AF",
+                "film type": "Instant Film",
+                "manufacturer": "Polaroid"
+            },
+            "brand": "Polaroid Originals 600",
+            "develop date": {}
+        }
+    ],
+    "Cameras": [
+        {
+            "name": "Program Plus",
+            "film type": "35mm",
+            "manufacturer": "Pentax"
+        },
+        {
+            "name": "Impulse AF",
+            "film type": "Instant Film",
+            "manufacturer": "Polaroid"
+        }
+    ]
+}

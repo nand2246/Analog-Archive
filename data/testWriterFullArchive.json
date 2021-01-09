@@ -1,0 +1,54 @@
+{
+    "Film": [
+        {
+            "iso": 400,
+            "name": "test",
+            "develop location": "Natural Color Lab",
+            "expiry": {
+                "month": "12",
+                "year": "2020",
+                "day": "30"
+            },
+            "type": "35mm",
+            "camera": {
+                "name": "Program Plus",
+                "film type": "35mm",
+                "manufacturer": "Pentax"
+            },
+            "brand": "Kodak Ultramax",
+            "develop date": {
+                "month": "7",
+                "year": "2020",
+                "day": "12"
+            },
+            "images path": "C:\\users\\nandp\\google drive\\photography"
+        },
+        {
+            "iso": 600,
+            "name": "test",
+            "develop location": "Polaroid Originals 600",
+            "expiry": {},
+            "type": "Instant Film",
+            "camera": {
+                "name": "Impulse AF",
+                "film type": "Instant Film",
+                "manufacturer": "Polaroid"
+            },
+            "brand": "Polaroid Originals 600",
+            "develop date": {},
+            "images path": "C:\\users\\nandp\\google drive\\photography"
+        }
+    ],
+    "Cameras": [
+        {
+            "name": "Program Plus",
+            "film type": "35mm",
+            "manufacturer": "Pentax"
+        },
+        {
+            "name": "Impulse AF",
+            "film type": "Instant Film",
+            "manufacturer": "Polaroid"
+        }
+    ]
+}

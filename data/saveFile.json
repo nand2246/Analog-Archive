@@ -1,0 +1,53 @@
+{
+  "Film": [
+    {
+      "iso": 400,
+      "name": "test2",
+      "develop location": "Kerrisdale Camera",
+      "expiry": {
+        "month": "9",
+        "year": "2020",
+        "day": "22"
+      },
+      "type": "35mm",
+      "camera": {
+        "name": "Program Plus",
+        "film type": "35mm",
+        "manufacturer": "Pentax"
+      },
+      "brand": "Kodak Ultramax",
+      "develop date": {
+        "month": "10",
+        "year": "2020",
+        "day": "11"
+      },
+      "images path": "C:\\Users\\nandp\\Google Drive\\Photography\\Lightroom Exports\\Done\\3 - 2020 March"
+    },
+    {
+      "iso": 600,
+      "name": "test",
+      "expiry": {},
+      "type": "Instant Film",
+      "camera": {
+        "name": "Impulse AF",
+        "film type": "Instant Film",
+        "manufacturer": "Polaroid"
+      },
+      "brand": "Polaroid Originals 600",
+      "develop date": {},
+      "images path": "C:\\Users\\nandp\\Google Drive\\Photography\\Lightroom Exports\\Done\\5 - 2020 July August"
+    }
+  ],
+  "Cameras": [
+    {
+      "name": "Program Plus",
+      "film type": "35mm",
+      "manufacturer": "Pentax"
+    },
+    {
+      "name": "Impulse AF",
+      "film type": "Instant Film",
+      "manufacturer": "Polaroid"
+    }
+  ]
+}
